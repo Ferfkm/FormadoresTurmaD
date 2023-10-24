@@ -31,3 +31,6 @@ body{
     font-size: 30px;
     color: var(--rosa);
 }
+.div__principal{
+    display: flex;
+}
