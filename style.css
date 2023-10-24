@@ -3,14 +3,14 @@
     --branco: #FFFFFF;
     --amarelo: #FECD2F;
     --preto: #000000;
-    --azul: #062f4f;
+    --azul: #052034;
     --rosa: #813772;
-    --laranja: #b82601;
+    --laranja: #e84016;
 }
 
 
 body{
-    background-color: var(--cor-de-fundo);
+    background-color: var(--azul);
 }
 
 
@@ -22,5 +22,5 @@ body{
 p{
     text-align: justify;
     font-size: 50px;
-    color: var(--azul);
+    color: var(--branco);
 }
