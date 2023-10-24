@@ -42,6 +42,6 @@ margin-top: 1%;;
 .paragrafo__dois{
     margin: 6%;
     text-align: center;
-    background-color: var(--cor-de-fundo);
+    background-color: var(--cor-de-fundo) 1;
     padding: 2%;
 }
