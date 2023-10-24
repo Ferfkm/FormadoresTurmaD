@@ -14,13 +14,18 @@ body{
 }
 
 
-.titulo_principal{
+.titulo__principal{
     font-size: 70px;
     color: var(--laranja);
     text-align: center;
 }
-.paragrafo_principal{
+.paragrafo__principal{
     text-align: justify;
     font-size: 50px;
     color: var(--branco);
+}
+.paragrafo__dois{
+    text-align: justify;
+    font-size: 30px;
+    color: var(--rosa);
 }
