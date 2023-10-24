@@ -1,13 +1,26 @@
-body{
-    background-color: #d8d8d8;
+:root{
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+    --amarelo: #FECD2F;
+    --preto: #000000;
+    --azul: #062f4f;
+    --rosa: #813772;
+    --laranja: #b82601;
 }
-h1{
+
+
+body{
+    background-color: var(--cor-de-fundo);
+}
+
+
+.titulo_principal{
     font-size: 70px;
-    color: #ea9393;
+    color: var(--laranja);
     text-align: center;
 }
 p{
     text-align: justify;
     font-size: 50px;
-    color: #488399;
+    color: var(--azul);
 }
