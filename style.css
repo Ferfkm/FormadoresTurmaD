@@ -24,6 +24,7 @@ body{
     font-size: 50px;
     color: var(--branco);
     margin: 0 8%;
+    background-color: var(--amarelo);
 }
 .paragrafo__dois{
     text-align: justify;
