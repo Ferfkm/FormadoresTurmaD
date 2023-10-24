@@ -34,3 +34,10 @@ body{
 .div__principal{
     display: flex;
 }
+.img__pensamento{
+width: 170px;
+margin-left: 3%;
+}
+.paragrafo__dois{
+    margin: 0, 5;
+}
