@@ -26,6 +26,7 @@ body{
 .item_lista_cabecalho{
     padding: 15px;
     list-style: none;
+    text-transform: uppercase;
 }
 
 .titulo__principal{
