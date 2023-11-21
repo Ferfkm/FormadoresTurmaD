@@ -13,7 +13,7 @@ body{
     background-color: var(--azul);
 }
 .cabecalho{
-    background-color: var(--preto) ;
+   background-image: linear-gradient(--preto);
 }
 .logo{
     width: 60%;
