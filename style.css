@@ -19,7 +19,13 @@ body{
     width: 600px;
     margin-left: 460px;
 }
-
+.item_lista{
+    display: flex;
+}
+.item_lista_cabecalho{
+    padding: 15px;
+    list-style: none;
+}
 
 .titulo__principal{
     font-size: 70px;
