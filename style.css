@@ -15,6 +15,10 @@ body{
 .cabecalho{
     background-image: linear-gradient(#000000, #052034);
 }
+.container{
+    display: flex;
+    align-items: center;
+}
 .logo{
     width: 300px;
     margin-left: 460px;
