@@ -12,9 +12,12 @@
 body{
     background-color: var(--azul);
 }
-
+.cabecalho{
+    background-color: var(--preto) ;
+}
 .logo{
     width: 60%;
+    margin-left: 560px;
 }
 
 .titulo__principal{
