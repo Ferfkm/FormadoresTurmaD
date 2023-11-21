@@ -13,6 +13,9 @@ body{
     background-color: var(--azul);
 }
 
+.logo{
+    border-radius: 50%;
+}
 
 .titulo__principal{
     font-size: 70px;
