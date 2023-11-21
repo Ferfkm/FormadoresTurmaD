@@ -19,8 +19,9 @@ body{
     width: 600px;
     margin-left: 460px;
 }
-.item_lista{
+.lista_cabecalho{
     display: flex;
+    color: var(--branco);
 }
 .item_lista_cabecalho{
     padding: 15px;
