@@ -18,6 +18,7 @@ body{
 .logo{
     width: 600px;
     margin-left: 460px;
+    display: flex;
 }
 .lista_cabecalho{
     display: flex;
